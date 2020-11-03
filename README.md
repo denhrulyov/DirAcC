@@ -1,12 +1,14 @@
 # Directory Access Checker
 
 ## 1. Overview
-Directory access checker:<br>
+Directory access checker for linux systems:<br>
 1. Takes some directory as argument.<br>
 2. Checks if the given folder exists. If no, tries to create it.<br>
 3. Checks if program has permissions to create files int the directory.<br>
 4. Checks if another instance of application is already using the directory.<br>
 5. If another instance of application is already using the directory returns -1.
+
+# Note: program is for linux systems.
 
 #### To run execute the following:
 
