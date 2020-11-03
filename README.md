@@ -8,7 +8,7 @@ Directory access checker for linux systems:<br>
 4. Checks if another instance of application is already using the directory.<br>
 5. If another instance of application is already using the directory returns -1.
 
-# Note: program is for linux systems.
+### Note: program is for linux systems.
 
 #### To run execute the following:
 
